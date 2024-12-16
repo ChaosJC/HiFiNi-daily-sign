@@ -33,6 +33,6 @@ bbs_token=R74mq3S2uXXXXXXXXXXX66nLnTW7DFOV;
 ![https://p1.meituan.net/csc/669bed5305d5293b90b670f861ddde36111425.png](https://p1.meituan.net/csc/669bed5305d5293b90b670f861ddde36111425.png)
 
 Renew:2024/8/19
-
+运行
 Based on [HiFiNi-Auto-Sign](https://github.com/Xramas/HiFiNi-Auto-Sign)
 
