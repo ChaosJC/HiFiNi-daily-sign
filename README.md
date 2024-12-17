@@ -7,7 +7,7 @@ HiFiNi-音乐磁场每日自动签到-无需服务器部署
 #### 第一步 Fork本仓库
 
 [hobk](https://github.com/hobk/)/**[HiFiNi-daily-sign](https://github.com/hobk/HiFiNi-daily-sign)**
-1
+
 
 #### 第二步 获取Cookie
 
